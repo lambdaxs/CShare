@@ -1,0 +1,5 @@
+platform :ios, '8.0'
+pod 'YYKit', '~> 0.9.7'
+pod 'Masonry', '~> 0.6.3'
+pod 'AFNetworking', '~> 3.0.4'
+pod 'SDWebImage', '~> 3.7.3'
